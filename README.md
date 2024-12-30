@@ -1,4 +1,12 @@
-## Hi there 👋 I'm Eliana
+# Hi there 👋
+## I'm Eliana, a data professional with more than 4 years of experience interacting with data analytics. 
+### In this site you will see an overview of some of the projects I've worked on. You can aslo explore my LinkedIn Profile for more info about my professional background. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliana_Burgos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eliana-burgos-da/)
+
+[![Tableau](https://img.shields.io/badge/Tableau-Eliana_Burgos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eliana-burgos-da/)
+
+![https://github.com/elianaburgos22](./image_data.png)
 
 <!--
 **elianaburgos22/elianaburgos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
